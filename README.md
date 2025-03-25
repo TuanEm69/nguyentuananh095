@@ -11,14 +11,32 @@ Tạo bảng
 Tạo khóa chính cho SinhVien
 
 ![Ảnh chụp màn hình (6)](https://github.com/user-attachments/assets/47fc9269-dd9d-42f4-904c-65cb28035326)
+Tạo khóa chính cho Lop
+
 ![Ảnh chụp màn hình (7)](https://github.com/user-attachments/assets/69b3a972-76ed-40d0-9919-531f74bc0521)
+Tạo khóa chính cho GVCN
+
 ![Ảnh chụp màn hình (8)](https://github.com/user-attachments/assets/4df07dff-82e1-4709-842b-6add781e72ff)
+Tạo khóa chính cho LopSV
+
 ![Ảnh chụp màn hình (9)](https://github.com/user-attachments/assets/0f4b7533-8e1c-41d7-8433-77c83814fff9)
+Tạo khóa chính cho GiaoVien
+
 ![Ảnh chụp màn hình (10)](https://github.com/user-attachments/assets/1e1490a6-4799-4990-bde6-d24c056341a0)
+Tạo khóa chính cho BoMon
+
 ![Ảnh chụp màn hình (11)](https://github.com/user-attachments/assets/1075b589-1ffc-4dd3-a784-8cff6f83562f)
+Tạo khóa chính cho Khoa
+
 ![Ảnh chụp màn hình (12)](https://github.com/user-attachments/assets/1f8b0fd2-df57-4422-96a2-b5fbba969bb6)
+Tạo khóa chính cho MonHoc
+
 ![Ảnh chụp màn hình (13)](https://github.com/user-attachments/assets/11652d04-139f-4439-af1d-992ddb1013c1)
+Tạo khóa chính cho LopHP
+
 ![Ảnh chụp màn hình (14)](https://github.com/user-attachments/assets/be1f84f8-1606-4fb0-b9bb-7b0ce3c47970)
+Tạo khóa chính cho DKMH
+
 ![Ảnh chụp màn hình (15)](https://github.com/user-attachments/assets/1dc35100-47a5-4afb-9f9d-576ca8cdb446)
 ![Ảnh chụp màn hình (16)](https://github.com/user-attachments/assets/9aebcdc1-25b1-4681-9d2b-1dd81be79237)
 ![Ảnh chụp màn hình (17)](https://github.com/user-attachments/assets/9187a8cd-e3a2-4772-8504-f5f49604b1e6)
