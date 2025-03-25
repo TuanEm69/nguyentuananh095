@@ -6,7 +6,10 @@ Tạo cơ sở dữ liệu
 ![Ảnh chụp màn hình (2)](https://github.com/user-attachments/assets/b0d863c6-32b7-4422-bd55-17955c07fa8a)
 ![Ảnh chụp màn hình (3)](https://github.com/user-attachments/assets/bf9add93-c994-4185-a92c-27efd8cf430b)
 Tạo bảng
+
 ![Ảnh chụp màn hình (5)](https://github.com/user-attachments/assets/e2d5bce9-862b-4172-830d-c840d6aee0ec)
+Tạo khóa chính cho SinhVien
+
 ![Ảnh chụp màn hình (6)](https://github.com/user-attachments/assets/47fc9269-dd9d-42f4-904c-65cb28035326)
 ![Ảnh chụp màn hình (7)](https://github.com/user-attachments/assets/69b3a972-76ed-40d0-9919-531f74bc0521)
 ![Ảnh chụp màn hình (8)](https://github.com/user-attachments/assets/4df07dff-82e1-4709-842b-6add781e72ff)
